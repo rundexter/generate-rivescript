@@ -1,0 +1,17 @@
+{
+  "name": "generate-rivescript",
+  "version": "0.0.2",
+  "description": "Takes trigger/response inputs and formats into rivescript",
+  "main": "index.js",
+  "author": "Dexter",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
+  }, 
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/rundexter/generate-rivescript"    
+  }
+}

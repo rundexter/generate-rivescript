@@ -1,0 +1,14 @@
+{
+    "inputs": [{
+      "id": "trigger",
+      "title":"Trigger"
+    }, {
+      "id": "response",
+      "title":"Response"
+    }],
+    "outputs": [{
+      "id": "script",
+      "title":"Script"
+    }],
+    "title": "Generate Rivescript" 
+}
